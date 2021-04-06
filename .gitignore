@@ -1,0 +1,8 @@
+#binary
+server
+
+#node npm
+node_modules
+
+#vscode
+.vscode
